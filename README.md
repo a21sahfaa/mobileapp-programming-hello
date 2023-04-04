@@ -3,7 +3,8 @@
 
 **Skriv din rapport här!**
 
-_Du kan ta bort all text som finns sedan tidigare_.
+![img.png](img.png)_ the fist thing i did was to make a github account and shortly after that i forked the app hello. i opened android studeio but there was a problem where i couldnt clone the app hello so i had to change the gradile name for the app to work. 
+the app worked and i went into strings.xml and changed hello too shoo and after that i commited and pushed.c
 
 ## Följande grundsyn gäller dugga-svar:
 
